@@ -1,0 +1,18 @@
+# Raw data cache is ~75 MB — NOT versioned. Reproducible via `python src/data.py`
+# (OpenML data_id=1597, no account needed).
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
