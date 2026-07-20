@@ -152,14 +152,3 @@ Toutes les sorties (CSV de métriques, figures PNG) sont régénérées dans
 ├── README.md
 └── requirements.txt
 ```
-
----
-
-## Résumé CV (2-3 lignes)
-
-> **Détection de fraude sur paiements en ligne** — Python, scikit-learn,
-> XGBoost, SHAP. Pipeline complet sur 285 k transactions réelles (0,17 % de
-> fraudes) : comparaison contrôlée de stratégies de rééquilibrage
-> (SMOTE, pondération), supervisé vs détection d'anomalies non supervisée,
-> et optimisation **coût-sensible** du seuil de décision (PR-AUC 0,86, coût de
-> fraude −70 %), avec explications SHAP par alerte.
